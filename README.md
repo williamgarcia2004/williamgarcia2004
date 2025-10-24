@@ -44,16 +44,24 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-## GitHub stats
+## Streak stats
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=williamgarcia2004&cache_seconds=3600&theme=dark" alt="GitHub Streak" />
-  </a>
+	<a href="https://git.io/streak-stats">
+  		<img src="https://streak-stats.demolab.com?user=williamgarcia2004&cache_seconds=3600&theme=dark" alt="GitHub Streak" />
+	</a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgarcia2004&cache_seconds=3600&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgarcia2004&layout=compact&theme=dark&langs_count=10&hide_border=true" alt="Top Languages" />
+</div>
+
+<br> 
+
+## GitHub Stats
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=williamgarcia2004&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
